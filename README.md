@@ -32,8 +32,7 @@ Comparing the models based on different parameters
 
 <!-- Slide number: 6 -->
 # Dataset
-
-![The image shows an Excel spreadsheet with multiple columns and rows, containing text entries under various headers such as "Date," "Label," "Top1" through "Top21," and others like "A," "B," etc. The data appears to be organized in a tabular format, possibly tracking some form of ranking or list over time, with dates ranging from 03-01-2000 to 02-01-2012. Each row seems to correspond to a specific date, and the cells contain textual information related to different topics or events. Some cells are marked with asterisks ("*") indicating special notes or conditions. The overall layout suggests that it could be used for analyzing trends or patterns across these specified categories over the given period.](Picture3.jpg)
+https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/cd65228abc3638854a1084d29c8e05fa8c592968/pasted%20file.png
 
 <!-- Slide number: 7 -->
 # Exploratory Data Analysis
@@ -83,7 +82,7 @@ It is a graphical representation for getting all the possible solutions to a pro
 <!-- Slide number: 11 -->
 # Continued…
 
-![The image depicts a decision tree diagram, illustrating the hierarchical structure of a classification or regression model. At the top is the "Root Node," which represents the initial decision point based on an input feature. This root node branches into two "Decision Nodes" based on certain conditions. Each decision node further splits into additional nodes until reaching the "Leaf Nodes." Leaf nodes represent terminal points where decisions are made, and they contain the final output values, such as class labels or predicted continuous outcomes. One branch of the tree is highlighted with a dashed box labeled "Sub-Tree," indicating a subset of the overall decision tree that can be considered independently. The colors used in the diagram help differentiate between various types of nodes: green for the root, blue for intermediate decision nodes, and pink for leaf nodes. Arrows indicate the flow from one node to another, showing the direction of decision-making through the tree.](Picture4.jpg)
+(Picture4.ppg)
 
 <!-- Slide number: 12 -->
 # Random Forest Classifier
