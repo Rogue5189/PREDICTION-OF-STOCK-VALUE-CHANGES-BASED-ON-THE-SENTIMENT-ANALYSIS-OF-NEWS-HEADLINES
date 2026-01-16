@@ -122,7 +122,7 @@ In summary, Naive Bayes classifier is a general term which refers to conditional
 <!-- Slide number: 20 -->
 ![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/4f40f5d6132d91857a753d845dc54748d8f042a5/Screenshot_20260116_213247.png)
 <!-- Slide number: 21 -->
-![image alt] (https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/80ae606add49b45987b2b3272db390f5c890f468/Screenshot_20260116_213642.png)
+![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/80ae606add49b45987b2b3272db390f5c890f468/Screenshot_20260116_213642.png)
 
 <!-- Slide number: 22 -->
 # How a word is positive/negative sentiment
