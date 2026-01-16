@@ -108,8 +108,6 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 
 ![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/68a7ab6a7e3f04dbe14e99fdd7b41e35eb6434fe/y.png)
 
-![The image illustrates the concept of support vector machines (SVMs), specifically focusing on hyperplanes and margin in a two-dimensional space. - **Axes**: The diagram uses X1 and X2 as axes to represent different dimensions or features. - **Hyperplanes**: - There are two main hyperplanes depicted: one labeled "Positive Hyperplane" and another "Negative Hyperplane." - These hyperplanes separate data points into positive and negative classes, represented by blue diamonds and green circles respectively. - **Maximum Margin Hyperplane**: - A dashed line indicates the "Maximum Margin Hyperplane," which is the optimal decision boundary that maximizes the distance between itself and the nearest data points from either class. This is crucial in SVMs as it helps minimize classification error. - **Support Vectors**: - The points closest to the maximum margin hyperplane are marked as "Support Vectors." These vectors define the margin and are critical in determining the position of the decision boundary. - **Margin**: - The area between the positive and negative hyperplanes represents the "Margin," which is the largest possible gap between the two classes. The goal of an SVM is to find the hyperplane that maximizes this margin. Overall, the image effectively demonstrates how SVMs use support vectors and margins to classify data points into distinct categories while maximizing separation between them.](Picture4.jpg)
-
 <!-- Slide number: 18 -->
 # Multinomial Naïve Bayes Classifier
 The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification). The multinomial distribution normally requires integer feature counts. However, in practice, fractional counts such as tf-idf may also work.
@@ -122,36 +120,9 @@ The distribution we had been using with Naive Bayes classifier is a Gaussian dis
 In summary, Naive Bayes classifier is a general term which refers to conditional independence of each of the features in the model, while Multinomial Naive Bayes classifier is a specific instance of a Naive Bayes classifier which uses a multinomial distribution for each of the features.
 
 <!-- Slide number: 20 -->
-Grouping of words : Scenario -1				  Scenario - 2
-
-Market
-Hi
-
-Market Price
-Hi Book
-
-Book
-Price
-No Meaning when two words are combined
-There is some greater meaning when two words are combined
-
+![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/4f40f5d6132d91857a753d845dc54748d8f042a5/Screenshot_20260116_213247.png)
 <!-- Slide number: 21 -->
-Grouping of words : Scenario -1				  Scenario - 2
-News1 - The Investors are selling their stocks.
-News 2 – Today is wormer than yesterday.
 
-Investors selling stocks
-Today warmer yesterday
-Investors-selling
-stocks
-Today-warmer
-yesterday
-Today
-Warmer-yesterday
-Investors
-selling-stocks
-There is some greater meaning when two words are combined
-Not a good combination of words since they don’t convey meaning
 
 <!-- Slide number: 22 -->
 # How a word is positive/negative sentiment
