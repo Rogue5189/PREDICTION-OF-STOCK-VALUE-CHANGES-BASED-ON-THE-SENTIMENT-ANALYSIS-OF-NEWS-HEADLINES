@@ -205,8 +205,11 @@ In the second sentence delivery is a positive sentiment word.
 <!-- Slide number: 29 -->
 # Conclusion
 From the above block diagram we can conclude the following : 
+
 We have got an accuracy of 51.23% for the model.
+
 We got to know that when we combined 2 words then words having no meaning were more as compared to the number of words that have a greater meaning when combined together.
+
 For now we merged only two words together but we can have a future scope of combining more than 2 words that have a greater impact as a whole.
 
 <!-- Slide number: 30 -->
